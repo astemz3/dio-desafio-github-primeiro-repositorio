@@ -1,0 +1,20 @@
+BAIXANDO PELA PRIMEIRA VEZ O GIT NO WINDOWS:
+
+1. Digite no navegado a palavra git;
+2. Em seguida vai aparece varios link;
+3. Procure pelo link abaixo:
+
+https://git-scm.com/
+
+Criando uma conta GITHUB:
+1. Digite no navegado a palavra gitgub;
+2. Em seguida vai aparece varios link;
+3. Procure pelo link abaixo:
+https://github.com/
+4. Crie seu cadastro;
+5. Apois criado vai aparece o link com o nome
+que criou. 
+Exemplo:
+https://github.com/astemz3;
+6. Com este link pode começa a criar seus 
+projetos e divugar seus serviços.
